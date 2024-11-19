@@ -11,3 +11,7 @@ This program is created for
 entertainment and educational purposes
 only.
 ----------------------------------------
+
+~ Requirements ~
+Built for Windows 8.
+Requires NET 6.0.
